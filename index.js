@@ -41,7 +41,7 @@ function getDayOfWeekByDate(date) {
 
 
 
-//------------------- TESTADANDO A FUNÇÃO ------------------------
+//------------------- TESTANDO A FUNÇÃO ------------------------
 const deliveryCapacity = {
   Monday: 10,
   Tuesday: 20,
